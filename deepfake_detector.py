@@ -1,8 +1,8 @@
 import sys
 import os
-from PyQt5.QtWidgets import QApplication, QWidget, QPushButton, QMessageBox, QVBoxLayout, QLabel
-from PyQt5.QtGui import QPainter, QColor, QMovie
-from PyQt5.QtCore import Qt, QTimer
+from PyQt6.QtWidgets import QApplication, QWidget, QPushButton, QMessageBox, QVBoxLayout, QLabel
+from PyQt6.QtGui import QPainter, QColor, QMovie
+from PyQt6.QtCore import Qt, QTimer
 from PIL import Image, ImageGrab
 import numpy as np
 import tensorflow as tf
