@@ -1,7 +1,7 @@
 # --------- ABOUT --------- #
 A simple Deepfake Detector which captures your current screen at the press of a button and lets you know if something is a deepfake or a real image!
 Made for National Science Day
-Code- Gaurav A
+Code- 
 .h5 Model- i dont remember 
 # --------- DEPENDENCIES --------- #
 
